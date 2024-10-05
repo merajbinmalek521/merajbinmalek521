@@ -1,7 +1,6 @@
-(https://media.licdn.com/dms/image/v2/D5616AQF73xUMcvAn6g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727351515914?e=1733356800&v=beta&t=q6FwAOO-zzEwZYsXelLUypYKblT_gctDFUs6nIFDmdA)
 ### My name is Meraj Bin Malek
 #### I am a Full-Stack Software Engineer
-![I am a Full-Stack Software Engineer]
+![I am a Full-Stack Software Engineer](https://media.licdn.com/dms/image/v2/D5616AQF73xUMcvAn6g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727351515914?e=1733356800&v=beta&t=q6FwAOO-zzEwZYsXelLUypYKblT_gctDFUs6nIFDmdA)
 
 As an energetic individual with a strong and positive mindset, I thrive in dynamic environments that
 challenge me to continuously learn and grow. My ability to quickly adapt and my eagerness to acquire
