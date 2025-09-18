@@ -3,14 +3,15 @@
 #### I am a Full-Stack Software Engineer
 
 
-With my background in Computer Science & Engineering (B.Sc) from BRAC University, coupled with my skill set – Full-Stack Python Developer, I am confident that I can contribute positively to any team. I bring not only strong technical skills in web development but also a creative mindset that helps me build solutions that are both functional and visually engaging. I enjoy thinking outside the box to design user-friendly, responsive websites, and I can quickly adapt to new tools and frameworks. My creativity helps me solve problems in innovative ways, and my dedication ensures I deliver quality work on time. I believe I can add fresh ideas and reliable development skills in any team.
-
+With my background in Computer Science & Engineering (B.Sc) from BRAC University, coupled with my skill set, I am confident that I can contribute positively to any team. I bring not only strong technical skills in web development but also a creative mindset that helps me build solutions that are both functional and visually engaging. I enjoy thinking outside the box to design user-friendly, responsive websites, and I can quickly adapt to new tools and frameworks. My dedication ensures I deliver quality work on time. 
+<br>
 - :white_check_mark: Programming Language: Python | Java | JavaScript
 - :white_check_mark: Framework: Django | Flask | FastApi | BootStrap
 - :white_check_mark: Library: REACT
 - :white_check_mark: DB: PostgreSql | MySql
-
-
+<br>
+<br>
+<br>
 - 🔭 I’m currently working on my own projects. 
 - 🌱 I’m currently learning libraries & frameworks. 
 - 👯 I’m looking to collaborate on AI/ ML/ DL. 
