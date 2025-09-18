@@ -13,7 +13,10 @@ With my background in Computer Science & Engineering (B.Sc) from BRAC University
 - 👯 I’m looking to collaborate on AI/ ML/ DL. 
 - 💬 Ask me about AI/ ML/ DL. 
 - 📫 How to reach me: LinkedIn/ Gmail/Facebook. 
-- ⚡ Fun fact: I love machine learning. 
+- ⚡ Fun fact: I love machine learning.
+
+
+ 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/merajbinmalek521/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/merajbinmalek521)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merajbinmalek521)](https://github.com/anuraghazra/github-readme-stats)
